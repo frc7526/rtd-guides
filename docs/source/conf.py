@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'FRC 教學指南'
+copyright = '2023, FRC7526 (ZapBotics暫定)'
+author = 'Decision-Maker lbxrb'
 
 release = '0.1'
 version = '0.1.0'
