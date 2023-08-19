@@ -2,9 +2,9 @@
 =========================
 
 **FRC7526** (ZapBotics屬暫定名稱) 是一個台灣的FIRST隊伍，基地位於高雄市立高雄高級中學
-成員除了來自本校學生亦包含高雄女中與鳳新高中，目前全隊處於積極發展狀態
 
-本教學指南旨在提升配電與程式技能傳承，陸續可新增其他組別之事項
+本教學指南旨在提升新進成員之相關技能，亦可提供其他台灣FRC隊伍做為參考與學術交流
+如本文件有任何錯誤之處，請不吝指教，於Github上提出修改或以電子郵件告知，謝謝您的協助
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
